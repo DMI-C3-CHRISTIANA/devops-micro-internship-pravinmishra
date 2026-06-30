@@ -32,8 +32,7 @@ You will reuse this in later weeks. So do it properly once.
 **Hint:** What do you believe about career, money, learning, discipline, relationships, health, success, life, tech industry, etc. that most people don't agree with?
 
 ## Answer
-
-Add your answer here...
+I believe am an introvert but my peers thinks otherwise, and thats because i realize in this era,we have to leverage on communication/networking and not being mute. Ypu miss out in silence.
 
 ---
 
@@ -199,8 +198,8 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
+1. The Phoenix Project by Gene Rim
+2. 
 3. Add your answer here...
 4. Add your answer here...
 5. Add your answer here...
@@ -272,7 +271,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+yes
 
 ---
 
@@ -290,7 +289,8 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Devotions
+Exercise (4.2km jog)
 
 ---
 
@@ -298,11 +298,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+sun-wed: 120mins deep work
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+4 sessions per week
 
 ---
 
@@ -316,7 +316,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Phone on DND
 
 ---
 
@@ -324,19 +324,18 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+It can be me,so far i can intentionally put in the effort
 
 ### My biggest weakness/loop I noticed
-
-Add your answer here...
+once i procrastinates i get emotionally drained
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+set goals my brain would not see worth  procrastinating
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+https://www.linkedin.com/in/nwasike-chiamaka-175017337
 
 `__________________________`
 
@@ -344,7 +343,7 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/in/nwasike-chiamaka-175017337
 - Blog / Medium : **ADD LINK HERE**  
 
 ---
