@@ -32,7 +32,7 @@ You will reuse this in later weeks. So do it properly once.
 **Hint:** What do you believe about career, money, learning, discipline, relationships, health, success, life, tech industry, etc. that most people don't agree with?
 
 ## Answer
-I believe am an introvert but my peers thinks otherwise, and thats because i realize in this era,we have to leverage on communication/networking and not being mute. Ypu miss out in silence.
+I believe am an introvert but my peers thinks otherwise, and thats because i realize in this era,we have to leverage on communication/networking and not being mute. You miss out in silence.
 
 ---
 
@@ -53,12 +53,11 @@ Write each truth in this format:
 ## Truth #1
 
 ### Truth
-
-Add your answer here...
+Reviewing is a mystery solved
 
 ### Evidence from my life
 
-Add your answer here...
+I would always feel that since i know this or have read this or hav e watched this that am solid,but reviewing is always gaining a new info all the time
 
 ---
 
@@ -66,11 +65,12 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+speaking with cadence curbs bad reflexive response
+
 
 ### Evidence from my life
 
-Add your answer here...
+I remember being intentional with my tone speaking softly as a whole,i was short tempered but still in practice with that my responses has improved,you might wondered shouldnt this provoke her.
 
 ---
 
@@ -78,11 +78,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+The less you say about yourself the more interesting you get
 
 ### Evidence from my life
 
-Add your answer here...
+Thats not to kill commuincation,but people always respect what they dont understand....i remember in school the guys would always say that am a no nonsense and i would always own the room without struggling.
 
 ---
 
@@ -90,7 +90,15 @@ Add your answer here...
 
 ### Instructions
 
-Write as if a journalist is writing about you **3 to 7 years from now** (not 20 years).
+Nwasike Chiamaka Christiana graduated from Chukwuemeka Odumegwu Ojukwu University in 2027 with a First class in Industrial Physics. In her 300lvl she transitioned into DevOps initially was self paced until she realized she needed something more,structure,pressure,team collaboration and systems in place then she found Devops Micro Internship(DMI) which ran for 15 weeks. She built her first production pipeline in month three of that program, targeting the monitoring and observability track — a choice she made deliberately, because she was already looking past DevOps toward MLOps.
+
+She earned her AWS Cloud Practitioner certification before the program ended, then added Solutions Architect Associate the following year. Her GitHub commit history from that period is public and unbroken — she documented every week of the cohort on LinkedIn and X, a decision she credits directly for her first job offer in December 2026, four months ahead of the industry-average timeline for junior DevOps hires.
+
+She landed her first role as a DevOps engineer at Tesla, where she owned CI/CD pipeline reliability and led the team's adoption of automated security scanning into the deploy process — her first real DevSecOps work, built on infrastructure she already understood rather than studied in the abstract.
+
+By 2029 she had moved into MLOps, managing model deployment and monitoring pipelines for a machine learning platform team. The transition wasn't a leap; it was the DevOps fundamentals she'd built for three years, applied to a new payload. She relocated to Toronto in 2030 to start a master's degree part-time while working remotely, funded entirely by her own income the financial independence from family she'd been working toward since 2026.
+
+Today she leads a small SRE team responsible for uptime across the company's ML inference infrastructure. She contributes to two open-source observability tools and mentors three junior engineers who found her through the same public build-log she started in 2026.
 
 **Minimum 300 words.**
 
@@ -134,13 +142,13 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+Am so proud 
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+https://www.linkedin.com/in/nwasike-chiamaka-175017337
 
 ---
 
@@ -172,7 +180,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+regret because i realized rushing into something has its cons,loop holes,confusion.
 
 ---
 
@@ -199,15 +207,15 @@ Choose books that improve:
 ## Book List
 
 1. The Phoenix Project by Gene Rim
-2. 
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+2. The 7 Habits of Highly Effective People by Stephen R. Covey
+3. The Goal by Eliyahu M. Goldratt
+4. Emotional Intelligence by Daniel Goleman
+5. The Body Keeps the Score by Bessel van der Kolk
+6. Accelerate by Nicole Forsgren, Jez Humble & Gene Kim
+7. Mindset: The New Psychology of Success by Carol S. Dweck
+8. The Untethered Soul by Michael A. Singer.
+9. Daring Greatly by Brené Brown
+10. Permission to Feel by Marc Brackett
 
 ---
 
@@ -236,16 +244,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Eating habits
+* Utterances
+* Prayer life
+* Learning hours
+* Weekly regualtion of my Actions
+* Workouts
+* Sleep hours
+* Weekly regulation of my posts
+* Savings,Expenses,Investments
+* Cycle
 
 ---
 
